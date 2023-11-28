@@ -50,7 +50,7 @@ This application was created as a part of course on my colledge.
     - Нажмите кнопку «Построить», чтобы просмотреть график вашей функции на экране.
 
 ## Требования
-Visual Studio (или любая IDE C#)
+Visual Studio 
 .NET Framework
 
 
