@@ -1,16 +1,12 @@
 # MishinLagrang
 
-GraphPlotter is a simple and user-friendly mathematical program built with C# and WinForms. It is designed to graph mathematical functions on a two-dimensional coordinate plane.
+My Programm is a simple and user-friendly mathematical program built with C# and WinForms.
 
 ![image](https://github.com/SouthKartman/MishinLagrang/assets/93534577/4d95fc79-daef-4e65-984b-a0d9e668982b)
 
 ## Features
 
-- **Function Plotting:** GraphPlotter allows you to visualize mathematical functions on the coordinate plane. Simply input your function, and see its graph instantly.
-
-- **Customization of Graph Appearance:** Easily customize line colors, styles, and point markers to make your graphs more visually appealing and informative.
-
-- **Multiple Graphs on One Plot:** Ability to plot multiple graphs on the same coordinate plane for comparison and analysis.
+- **Function Plotting:** Programm allows you to visualize mathematical functions on the coordinate plane.
 
 ## How to Use
 
@@ -19,24 +15,17 @@ GraphPlotter is a simple and user-friendly mathematical program built with C# an
    - Open the project in Visual Studio or your preferred C# IDE.
    - Build and run the application.
 
-2. **Input Function:**
-   - Launch the application and enter your mathematical function for graphing. Example: `y = x^2`.
 
-3. **Adjust Parameters (Optional):**
-   - Use the provided controls to customize the appearance of your graph.
-
-4. **See the Result:**
+2. **See the Result:**
    - Click the "Plot" button to view the graph of your function on the screen.
 
-Requirements
+## Requirements
 Visual Studio (or any C# IDE)
-.NET Framework [version, if applicable]
-License
-This project is licensed under the [specify your license].
+.NET Framework
 
-Notes
-This application was created as a part of [mention any project or course, if applicable].
-Any additional information you think is useful or important for users.
+
+## Notes
+This application was created as a part of course on my colledge.
 
 
 ## Examples
@@ -71,21 +60,76 @@ namespace GraphPlotterApp
 
 ## Описание
 
-Одна из моих студенческих программ это простая и удобная математическая программа, написанная на [вашем языке программирования, например, Python], предназначенная для построения графиков функций на координатной плоскости.
+Моя программа — это простая и удобная математическая программа, созданная с помощью C# и WinForms. Он предназначен для построения графиков математических функций на двумерной координатной плоскости.
 
-Основные функции
-Построение графиков функций: позволяет вам визуализировать математические функции на двумерной координатной плоскости. Просто введите свою функцию и увидьте ее график мгновенно.
+## Функции
 
-Множественные графики на одной плоскости: Возможность строить несколько графиков на одной координатной плоскости для сравнения и анализа.
+- **Построение графиков функций:** GraphPlotter позволяет визуализировать математические функции на координатной плоскости. Просто введите свою функцию и мгновенно увидите ее график.
 
-Как использовать
-Установка зависимостей: [Пример команды для установки зависимостей, если необходимо]
+- **Настройка внешнего вида графиков.** Легко настраивайте цвета линий, стили и маркеры точек, чтобы сделать графики более визуально привлекательными и информативными.
 
-Запуск программы: [Пример команды для запуска программы]
+- **Несколько графиков на одном графике:** Возможность построения нескольких графиков на одной координатной плоскости для сравнения и анализа.
 
-Ввод функции: Введите вашу математическую функцию для построения графика. Пример: y = x^2.
+## Как использовать
 
-Настройка параметров (по желанию): Используйте доступные опции для настройки внешнего вида графика.
+1. **Загрузите и установите:**
+    - Клонируйте репозиторий: `git clone https://github.com/yourusername/GraphPlotter.git`
+    - Откройте проект в Visual Studio или предпочитаемой вами C# IDE.
+    - Создайте и запустите приложение.
 
-Получение результата: Увидите график вашей функции на экране.
+2. **Функция ввода:**
+    - Запустите приложение и введите свою математическую функцию для построения графика. Пример: `y = x^2`.
+
+3. **Настройте параметры (необязательно):**
+    - Используйте предоставленные элементы управления, чтобы настроить внешний вид графика.
+
+4. **Смотрите результат:**
+    - Нажмите кнопку «Построить», чтобы просмотреть график вашей функции на экране.
+
+Требования
+Visual Studio (или любая IDE C#)
+.NET Framework [версия, если применимо]
+Лицензия
+Этот проект распространяется под лицензией [укажите свою лицензию].
+
+Примечания
+Это приложение было создано как часть [указать любой проект или курс, если применимо].
+Любая дополнительная информация, которую вы считаете полезной или важной для пользователей.
+Моя программа — это простая и удобная математическая программа, созданная с помощью C# и WinForms. Он предназначен для построения графиков математических функций на двумерной координатной плоскости.
+
+![изображение](https://github.com/SouthKartman/MishinLagrang/assets/93534577/4d95fc79-daef-4e65-984b-a0d9e668982b)
+
+## Функции
+
+- **Построение графиков функций:** GraphPlotter позволяет визуализировать математические функции на координатной плоскости. Просто введите свою функцию и мгновенно увидите ее график.
+
+- **Настройка внешнего вида графиков.** Легко настраивайте цвета линий, стили и маркеры точек, чтобы сделать графики более визуально привлекательными и информативными.
+
+- **Несколько графиков на одном графике:** Возможность построения нескольких графиков на одной координатной плоскости для сравнения и анализа.
+
+## Как использовать
+
+1. **Загрузите и установите:**
+    - Клонируйте репозиторий: `git clone https://github.com/yourusername/GraphPlotter.git`
+    - Откройте проект в Visual Studio или предпочитаемой вами C# IDE.
+    - Создайте и запустите приложение.
+
+2. **Функция ввода:**
+    - Запустите приложение и введите свою математическую функцию для построения графика. Пример: `y = x^2`.
+
+3. **Настройте параметры (необязательно):**
+    - Используйте предоставленные элементы управления, чтобы настроить внешний вид графика.
+
+4. **Смотрите результат:**
+    - Нажмите кнопку «Построить», чтобы просмотреть график вашей функции на экране.
+
+Требования
+Visual Studio (или любая IDE C#)
+.NET Framework [версия, если применимо]
+Лицензия
+Этот проект распространяется под лицензией [укажите свою лицензию].
+
+Примечания
+Это приложение было создано как часть [указать любой проект или курс, если применимо].
+Любая дополнительная информация, которую вы считаете полезной или важной для пользователей.
 
