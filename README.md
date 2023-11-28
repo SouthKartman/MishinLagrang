@@ -28,7 +28,7 @@ Visual Studio (or any C# IDE)
 This application was created as a part of course on my colledge.
 
 
-## Описание
+# Описание
 
 Моя программа — это простая и удобная математическая программа, созданная с помощью C# и WinForms.
 
