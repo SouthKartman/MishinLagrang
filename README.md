@@ -11,7 +11,7 @@ My Programm is a simple and user-friendly mathematical program built with C# and
 ## How to Use
 
 1. **Download and Install:**
-   - Clone the repository: `git clone https://github.com/yourusername/GraphPlotter.git`
+   - Clone the repository: `git clone https://github.com/SouthKartman/MishinLagrang.git`
    - Open the project in Visual Studio or your preferred C# IDE.
    - Build and run the application.
 
@@ -40,7 +40,7 @@ This application was created as a part of course on my colledge.
 ## Как использовать
 
 1. **Загрузите и установите:**
-    - Клонируйте репозиторий: `git clone https://github.com/yourusername/GraphPlotter.git`
+    - Клонируйте репозиторий: `git clone https://github.com/SouthKartman/MishinLagrang.git`
     - Откройте проект в Visual Studio или предпочитаемой вами C# IDE.
     - Создайте и запустите приложение.
 
