@@ -27,7 +27,7 @@ Visual Studio (or any C# IDE)
 ## Notes
 This application was created as a part of course on my colledge.
 
-<br><br>
+<br><br><br><br><br><br>
 
 # Описание
 
