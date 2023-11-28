@@ -1,10 +1,8 @@
 # MishinLagrang
 
-![image](https://github.com/SouthKartman/MishinLagrang/assets/93534577/4d95fc79-daef-4e65-984b-a0d9e668982b)
-
-
-
 GraphPlotter is a simple and user-friendly mathematical program built with C# and WinForms. It is designed to graph mathematical functions on a two-dimensional coordinate plane.
+
+![image](https://github.com/SouthKartman/MishinLagrang/assets/93534577/4d95fc79-daef-4e65-984b-a0d9e668982b)
 
 ## Features
 
@@ -29,6 +27,17 @@ GraphPlotter is a simple and user-friendly mathematical program built with C# an
 
 4. **See the Result:**
    - Click the "Plot" button to view the graph of your function on the screen.
+
+Requirements
+Visual Studio (or any C# IDE)
+.NET Framework [version, if applicable]
+License
+This project is licensed under the [specify your license].
+
+Notes
+This application was created as a part of [mention any project or course, if applicable].
+Any additional information you think is useful or important for users.
+
 
 ## Examples
 
@@ -58,19 +67,9 @@ namespace GraphPlotterApp
         }
     }
 }
+```
 
-Requirements
-Visual Studio (or any C# IDE)
-.NET Framework [version, if applicable]
-License
-This project is licensed under the [specify your license].
-
-Notes
-This application was created as a part of [mention any project or course, if applicable].
-Any additional information you think is useful or important for users.
-
-
-
+## Описание
 
 Одна из моих студенческих программ это простая и удобная математическая программа, написанная на [вашем языке программирования, например, Python], предназначенная для построения графиков функций на координатной плоскости.
 
